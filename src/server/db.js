@@ -5,8 +5,8 @@ async function connectToDatabase() {
         {
             host: 'localhost',
             user: 'root',
-            password: 'Josu@MYSQL012006',
-            database: 'training'
+            password: 'password',
+            database: 'database_name'
         }
     );
     
